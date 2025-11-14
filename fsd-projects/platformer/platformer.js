@@ -50,12 +50,15 @@ $(function () {
       createCollectable("diamond",600,133)
        createCollectable("grace",300,400)
         createCollectable("kennedi",263,620)
-        
+
 
 
 
     
     // TODO 4 - Create Cannons
+    createCannon('right',400, 921);
+    createCannon("top",600,889);
+    createCannon("bottom",300,987);
 
 
     
